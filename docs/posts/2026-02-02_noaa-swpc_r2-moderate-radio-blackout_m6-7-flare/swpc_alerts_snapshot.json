@@ -1,0 +1,118 @@
+{
+  "alerts": [
+    {
+      "issue_datetime": "2026-02-02 11:43:12.050",
+      "message": "Space Weather Message Code: SUMXM5\r\nSerial Number: 308\r\nIssue Time: 2026 Feb 02 1143 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5\r\nBegin Time: 2026 Feb 02 1115 UTC\r\nMaximum Time: 2026 Feb 02 1124 UTC\r\nEnd Time: 2026 Feb 02 1131 UTC\r\nX-ray Class: M6.7\r\nLocation: N18E30\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "product_id": "XM5S"
+    },
+    {
+      "issue_datetime": "2026-02-02 11:23:15.280",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 516\r\nIssue Time: 2026 Feb 02 1123 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 02 1121 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-02 10:31:27.550",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1092\r\nIssue Time: 2026 Feb 02 1031 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nFeb 03:  None (Below G1)   Feb 04:  None (Below G1)   Feb 05:  G1 (Minor)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nComment: CME(s) associated with a complex eruption during the X8.1 event from Region 4366 will likely deliver glancing influences by late on 05 Feb leading to possible minor geomagnetic storming conditions.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    },
+    {
+      "issue_datetime": "2026-02-02 07:58:40.543",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 515\r\nIssue Time: 2026 Feb 02 0758 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 02 0754 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-02 03:09:43.373",
+      "message": "Space Weather Message Code: SUMXM5\r\nSerial Number: 307\r\nIssue Time: 2026 Feb 02 0309 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5\r\nBegin Time: 2026 Feb 02 0245 UTC\r\nMaximum Time: 2026 Feb 02 0251 UTC\r\nEnd Time: 2026 Feb 02 0259 UTC\r\nX-ray Class: M5.2\r\nLocation: N14E35\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "product_id": "XM5S"
+    },
+    {
+      "issue_datetime": "2026-02-02 02:52:04.410",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 514\r\nIssue Time: 2026 Feb 02 0252 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 02 0249 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-01 23:56:50.027",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 513\r\nIssue Time: 2026 Feb 01 2356 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 01 2356 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-01 16:29:40.310",
+      "message": "Space Weather Message Code: SUMXM5\r\nSerial Number: 306\r\nIssue Time: 2026 Feb 01 1629 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5\r\nBegin Time: 2026 Feb 01 1557 UTC\r\nMaximum Time: 2026 Feb 01 1605 UTC\r\nEnd Time: 2026 Feb 01 1616 UTC\r\nX-ray Class: M5.1\r\nLocation: N17E40\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "product_id": "XM5S"
+    },
+    {
+      "issue_datetime": "2026-02-01 16:08:28.583",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 512\r\nIssue Time: 2026 Feb 01 1608 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 01 1608 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-01 13:13:49.787",
+      "message": "Space Weather Message Code: SUMXM5\r\nSerial Number: 305\r\nIssue Time: 2026 Feb 01 1313 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5\r\nBegin Time: 2026 Feb 01 1245 UTC\r\nMaximum Time: 2026 Feb 01 1250 UTC\r\nEnd Time: 2026 Feb 01 1304 UTC\r\nX-ray Class: M5.8\r\nLocation: N16E36\r\nNOAA Scale: R2 - Moderate\r\n\r\nComment: Additional flaring from Region 4366. No radio sweeps reported by USAF observatories indicating a CME at this time.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "product_id": "XM5S"
+    },
+    {
+      "issue_datetime": "2026-02-01 12:55:00.530",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 511\r\nIssue Time: 2026 Feb 01 1255 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 01 1248 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-01 12:12:12.810",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 510\r\nIssue Time: 2026 Feb 01 1212 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 01 1209 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-02-01 10:18:10.630",
+      "message": "Space Weather Message Code: SUMXM5\r\nSerial Number: 304\r\nIssue Time: 2026 Feb 01 1018 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5\r\nBegin Time: 2026 Feb 01 0953 UTC\r\nMaximum Time: 2026 Feb 01 1002 UTC\r\nEnd Time: 2026 Feb 01 1006 UTC\r\nX-ray Class: M6.6\r\nLocation: N16E39\r\nNOAA Scale: R2 - Moderate\r\n\r\nComment: Flare originated from AR 4366 and appears to be impulsive in nature at this time.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "product_id": "XM5S"
+    },
+    {
+      "issue_datetime": "2026-02-01 10:05:42.047",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 509\r\nIssue Time: 2026 Feb 01 1005 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 01 1001 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-01-26 09:06:39.720",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1091\r\nIssue Time: 2026 Jan 26 0906 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nJan 27:  None (Below G1)   Jan 28:  G1 (Minor)   Jan 29:  None (Below G1)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nComment: Negative polarity CH influences will likely lead to isolated G1 (Minor) geomanetic storming periods on 28 Jan.\r\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    },
+    {
+      "issue_datetime": "2026-01-21 07:31:32.623",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1090\r\nIssue Time: 2026 Jan 21 0731 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nJan 22:  G1 (Minor)   Jan 23:  None (Below G1)   Jan 24:  None (Below G1)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    },
+    {
+      "issue_datetime": "2026-01-18 17:52:17.193",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 508\r\nIssue Time: 2026 Jan 18 1752 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Jan 18 1752 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "product_id": "XM5A"
+    },
+    {
+      "issue_datetime": "2026-01-15 20:55:00.267",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1089\r\nIssue Time: 2026 Jan 15 2055 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nJan 16:  None (Below G1)   Jan 17:  G1 (Minor)   Jan 18:  G1 (Minor)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    },
+    {
+      "issue_datetime": "2026-01-14 23:14:25.187",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1088\r\nIssue Time: 2026 Jan 14 2314 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nJan 15:  None (Below G1)   Jan 16:  None (Below G1)   Jan 17:  G1 (Minor)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    },
+    {
+      "issue_datetime": "2026-01-09 20:06:48.077",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1087\r\nIssue Time: 2026 Jan 09 2006 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nJan 10:  G1 (Minor)   Jan 11:  G1 (Minor)   Jan 12:  None (Below G1)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nComment: CMEs associated with a filament eruption from 08 Jan, coupled with ongoing CH HSS effects, are likely to bring G1 (Minor) geomagnetic storming conditions by late 10 Jan continuing into 11 Jan.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    },
+    {
+      "issue_datetime": "2026-01-06 22:18:14.303",
+      "message": "Space Weather Message Code: WATA20\r\nSerial Number: 1086\r\nIssue Time: 2026 Jan 06 2218 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted\r\n\r\nHighest Storm Level Predicted by Day:\r\nJan 07:  None (Below G1)   Jan 08:  None (Below G1)   Jan 09:  G1 (Minor)\r\n\r\nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "product_id": "A20F"
+    }
+  ],
+  "captured_utc": "2026-02-02T19:01:08Z",
+  "content_bytes": 165520,
+  "http_status": 200,
+  "kept_product_ids": [
+    "A20F",
+    "XM5A",
+    "XM5S"
+  ],
+  "source": "https://services.swpc.noaa.gov/products/alerts.json"
+}

@@ -1,0 +1,21 @@
+{
+  "captured_at_utc": "2026-02-02T21:05:02.278761Z",
+  "incidents": {
+    "xwn6hjps36ty": {
+      "name": "Incident with Actions",
+      "status": "investigating",
+      "updated_at": "2026-02-02T20:27:29.412Z",
+      "latest_update_at": "2026-02-02T20:27:29.408Z",
+      "latest_update_status": "investigating",
+      "latest_update_body": "The team continues to investigate issues causing GitHub Actions jobs on hosted runners to remain queued for extended periods, with a percentage of jobs failing. We will continue to provide updates as we make progress toward mitigation.<br />"
+    },
+    "t4s6xgbwv60j": {
+      "name": "Incident with Codespaces",
+      "status": "investigating",
+      "updated_at": "2026-02-02T20:19:26.639Z",
+      "latest_update_at": "2026-02-02T20:19:26.636Z",
+      "latest_update_status": "investigating",
+      "latest_update_body": "Users may see errors creating or resuming codespaces. We are investigating and will provide further updates as we have them."
+    }
+  }
+}

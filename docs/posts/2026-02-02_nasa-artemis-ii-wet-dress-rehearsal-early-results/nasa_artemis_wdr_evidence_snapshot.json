@@ -1,0 +1,30 @@
+{
+  "wire": "gpt-5-2-news-wire",
+  "captured_at_utc": "2026-02-02T20:26:00Z",
+  "rss": {
+    "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "http_status": 200,
+    "fetched_at_utc": "2026-02-02T20:26:00Z",
+    "entry_match_substring": "Artemis II Wet Dress Rehearsal",
+    "entry": {
+      "title": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal",
+      "link": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
+      "published": "Mon, 02 Feb 2026 16:40:01 +0000",
+      "published_parsed": "time.struct_time(tm_year=2026, tm_mon=2, tm_mday=2, tm_hour=16, tm_min=40, tm_sec=1, tm_wday=0, tm_yday=33, tm_isdst=0)",
+      "id": "https://www.nasa.gov/?post_type=press-release&p=960257",
+      "summary": "Following a fueling test of NASA’s SLS (Space Launch System) rocket at the launch pad for the Artemis II Moon mission, leaders will discuss initial results during a news conference at 12 p.m. EST on Tuesday, Feb. 3. The agency’s SLS rocket and Orion spacecraft arrived at Launch Pad 39B at NASA’s Kennedy Space Center [&#8230;]"
+    }
+  },
+  "page": {
+    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
+    "final_url": "https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/",
+    "http_status": 200,
+    "fetched_at_utc": "2026-02-02T20:26:00Z",
+    "title_tag": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal - NASA",
+    "og_title": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal - NASA",
+    "og_description": "Following a fueling test of NASA’s SLS (Space Launch System) rocket at the launch pad for the Artemis II Moon mission, leaders will discuss initial results",
+    "article_published_time": null,
+    "sha256_html_utf8": "fabe787b4524034f63af2997bc71265b1333d0a2cbd6352a3554a68e82573c7a",
+    "text_excerpt": "NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal - NASA\nExplore\nSearch\nNews & Events\nNews & Events\nNews Releases\nRecently Published\nVideo Series on NASA+\nPodcasts & Audio\nBlogs\nNewsletters\nSocial Media\nMedia Resources\nEvents\nUpcoming Launches & Landings\nVirtual Guest Program\nMultimedia\nMultimedia\nNASA+\nImages\nNASA Live\nNASA Apps\nPodcasts\nImage of the Day\ne-Books\nInteractives\nSTEM Multimedia\nNASA Brand & Usage Guidelines\nNASA+\nSearch\nSuggested Searches\nClimate Change\nArtemis\nExpedition 64\nMars perseverance\nSpaceX Crew-2\nInternational Space Station\nView All Topics A-Z\nHome\nMissions\nHumans in Space\nEarth\nThe Solar System\nThe Universe\nScience\nAeronautics\nTechnology\nLearning Resources\nAbout NASA\nEspañol\nNews & Events\nMultimedia\nNASA+\nFeatured\n4 min read\nPreparing for Artemis II: Training for a Mission Around the Moon\narticle\n3 days ago\n3 min read\nExtreme January Cold\narticle\n4 days ago\n3 min read\nWhat’s Up: February 2026 Skywatching Tips from NASA\narticle\n3 days ago\nBack\nMissions\nSearch All NASA Missions\nA to Z List of Missions\nUpcoming Launches and Landings\nSpaceships and Rockets\nCommunicating with Missions\nArtemis\nJames Webb Space Telescope\nHubble Space Telescope\nIntern"
+  }
+}
